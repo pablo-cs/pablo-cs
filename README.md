@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Welcome!! 👋
+- 🔭 I'm Pablo (he/him)!
+- ⚡ I'm a junior at Vassar College, studying Computer Science and Sociology
+- 🌱 This summer, I'll be interning at Goldman Sachs in NYC!
+- 😄 Fun fact: I am a huge professional wrestling fan and have met 15+ wrestlers
+- 📫 How to reach me: pcrisostomosuarez5@gmail.com
 <!--
 **pablo-cs/pablo-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
